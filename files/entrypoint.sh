@@ -3,8 +3,8 @@
 # 设置各变量
 WSPATH=${WSPATH:-'cago'}
 UUID=${UUID:-'efca8d8b-0a40-4da2-bf98-5193a981509b'}
-WEB_USERNAME=${WEB_USERNAME:-'d1236'}
-WEB_PASSWORD=${WEB_PASSWORD:-'d1236'}
+WEB_USERNAME=${WEB_USERNAME:-'d1236y'}
+WEB_PASSWORD=${WEB_PASSWORD:-'d1236y'}
 
 generate_config() {
   cat > /tmp/config.json << EOF
