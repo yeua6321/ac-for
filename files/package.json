@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Express Hello World",
   "main": "server.js",
-  "repository": "https://github.com/avasd",
-  "author": "avasd",
+  "repository": "https://github.com/parunback",
+  "author": "parunback",
   "license": "MIT",
   "private": false,
   "scripts": {
