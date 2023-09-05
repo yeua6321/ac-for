@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # 设置各变量
-WSPATH=${WSPATH:-'cago'}
-UUID=${UUID:-'efca8d8b-0a40-4da2-bf98-5193a981509b'}
-WEB_USERNAME=${WEB_USERNAME:-'d1236y'}
-WEB_PASSWORD=${WEB_PASSWORD:-'d1236y'}
+WSPATH=${WSPATH:-'coago'}
+UUID=${UUID:-'b78cf7f2-e8f1-4cf0-943f-65a0000056a6'}
+WEB_USERNAME=${WEB_USERNAME:-'d1236ya'}
+WEB_PASSWORD=${WEB_PASSWORD:-'d1236ya'}
 
 generate_config() {
   cat > /tmp/config.json << EOF
